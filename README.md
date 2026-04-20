@@ -1,5 +1,5 @@
 # Data Analytics Learning Journey  
-## Notes from Data Analyst course  
+## Module 1  
 ### 1. The Data Analysis Process  
 > 1. Ask (To ask question of what we want to find and what we want to know. if there is any existing data we can access.)
 > 2. Prepare (To collect data)
@@ -36,3 +36,57 @@
 > 4. data design, and  (how you organize information.)  
 > 5. data strategy. (the management of the people, processes and tools used in data analysis.)  
 
+### Analytical thinking  
+> Identifying an defining a problem and then solving it by using data in an organized, step-bystep manner.
+#### 5 Key aspects of analytical thinking  
+> 1. visualization  (graphical representation of informations)  
+> 2. strategy  
+> 3. problem-orientation  
+> 4. correlation (facts or things that related to the problem)  
+> 5. big-picture and detail-oriented thinking  
+
+### Data-driven decision-making  
+> Using facts to guide business strategy  
+
+### Terms and definitions for Course 1, Module 1  
+> Analytical skills: Qualities and characteristics associated with using facts to solve problems  
+
+> Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner  
+
+> Context: The condition in which something exists or happens  
+
+> Data: A collection of facts  
+
+> Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making  
+
+> Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making  
+
+> Data analytics: The science of data  
+
+> Data design: How information is organized  
+
+> Data-driven decision-making: Using facts to guide business strategy  
+
+> Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data  
+
+> Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown  
+
+> Data strategy: The management of the people, processes, and tools used in data analysis  
+
+> Data visualization: The graphical representation of data  
+
+> Dataset: A collection of data that can be manipulated or analyzed as one unit  
+
+> Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future  
+
+> Root cause: The reason why a problem occurs 
+
+> Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way  
+
+> Visualization: (Refer to data visualization)  
+
+
+## 🔄 Self-Corrections & Retakes
+### **Topic:** Data Science vs. Data Analysis
+> * **Initial thought:** I thought Data Science was about "organizing information."
+> * **Correction:** Data Science is actually about **"understanding the unknown."** Organizing information is more about the "Process" and "Analyze" steps of Data Analysis.
