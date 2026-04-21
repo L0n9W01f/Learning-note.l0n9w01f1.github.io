@@ -90,3 +90,47 @@
 ### **Topic:** Data Science vs. Data Analysis
 > * **Initial thought:** I thought Data Science was about "organizing information."
 > * **Correction:** Data Science is actually about **"understanding the unknown."** Organizing information is more about the "Process" and "Analyze" steps of Data Analysis.
+
+
+## Module 2  
+### Data life cycle
+> 1. Plan
+> 2. Capture
+> 3. Manage
+> 4. Analyze
+> 5. Archive
+> 6. Destory
+
+
+### Explore data analyst tools  
+> 1. spreadsheet : to colect, store, organize, and sort information
+> 2. Databases and query languages
+> 3. visualization tools (Tableau, Looker)
+> 4. Programming Language : to prepare, process, analyze, and share data
+
+### Terms and definitions for Course 1, Module 2  
+> Database: A collection of data stored in a computer system  
+
+> Formula: A set of instructions used to perform a calculation using the data in a spreadsheet  
+
+> Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet  
+
+> Query: A request for data or information from a database  
+
+> Query language: A computer programming language used to communicate with a database  
+
+> Stakeholders: People who invest time and resources into a project and are interested in its outcome  
+
+> Structured Query Language: A computer programming language used to communicate with a database  
+
+> Spreadsheet: A digital worksheet  
+
+> SQL: (Refer to Structured Query Language)  
+
+
+## 🔄 Self-Corrections & Retakes  
+### Topic: Formula vs. Function  
+> Initial thought: I mixed up the definitions of preset commands and manual instructions.  
+
+> Correction: A Formula is a set of manual instructions, whereas a Function is a preset command. Functions make analysis more efficient.
+> 
