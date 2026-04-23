@@ -125,12 +125,18 @@
 
 > Spreadsheet: A digital worksheet  
 
-> SQL: (Refer to Structured Query Language)  
-
+> SQL: (Refer to Structured Query Language)
 
 ## 🔄 Self-Corrections & Retakes  
 ### Topic: Formula vs. Function  
 > Initial thought: I mixed up the definitions of preset commands and manual instructions.  
 
 > Correction: A Formula is a set of manual instructions, whereas a Function is a preset command. Functions make analysis more efficient.
-> 
+
+
+## Module 3  
+> format: to wrap the text
+> In a table, an attribute is a characteristic or quality of data used to label a column.  
+### organizing colum  
+> select all the data set
+> press data >> sort range >> advance range sorting option >> tick : data has header row >> select the colum name >> select A to Z for small to big.  
