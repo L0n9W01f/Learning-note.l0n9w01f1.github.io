@@ -135,8 +135,45 @@
 
 
 ## Module 3  
+### Spreadsheet  
 > format: to wrap the text
 > In a table, an attribute is a characteristic or quality of data used to label a column.  
-### organizing colum  
+#### organizing colum  
 > select all the data set
 > press data >> sort range >> advance range sorting option >> tick : data has header row >> select the colum name >> select A to Z for small to big.  
+
+
+### SQL Guide  
+> Store, organize, and Analyze data
+> Query = A request for data or information from a database
+> Syntax = the predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement. (Gramma of english)
+> 
+
+
+## SQL codes  
+> SELECT = Specifies the columns from which to retrieve data seperated by comma as shown below
+> Customer_id,
+> first_name,
+> last_name
+> SELECT * (to select all columns)
+> FROM = Specifies the table form which to retrieve data (data set.table name)  
+> WHERE = Specifies criteria that the data must meet  (e.g., first_name = 'Tony')
+> WHERE name LIKE 'Ch%' (to return any name start with 'Ch' e.g., 'Chavez and Chen')
+> % is used as a wildcard to match one or more characters.
+> ; (semicolon) = statement terminator (not all SQL databases adopted)
+> Comments = Use /* comment */ and -- comment to add comment
+> AS = use aliases names for imported data  
+> AND = both conditions
+> <> = does not equal
+
+### Visualization tools  
+> to visit: tableau
+> https://public.tableau.com/app/learn/how-to-videos
+> https://public.tableau.com/app/discover
+> https://public.tableau.com/app/profile/george.koursaros/viz/LighthousesofGreece/Lighthouses
+> https://public.tableau.com/app/profile/bo.mccready8742/viz/WordDataWorking/WhoIsTalking
+>   _____
+> to visit: Python  
+> https://python-graph-gallery.com/  
+> https://posit.co/products/open-source/rstudio?sid=1
+>
